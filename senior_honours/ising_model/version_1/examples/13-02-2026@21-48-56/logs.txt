@@ -1,0 +1,8 @@
+
+**********
+Arguments: {'visual_only': True, 'temperature': 3.0, 'plot_freq': 10, 'visualiser': False, 'algorithm': 'glauber', 'temp_range': (1.0, 3.0), 'temp_step': 0.1, 'dimension': 50, 'sweep_depth': 1000, 'sweep_warmup': 100, 'correlation_gap': 10, 'start': 'random', 'error_method': 'bootstrap'}
+**********
+
+start: 13-02-2026@21-48-56
+2160 sweeps elapsed in 00 Hours 00 Minutes 38 Seconds
+finish: 13-02-2026@21-49-34

@@ -1,0 +1,8 @@
+
+**********
+Arguments: {'dimension': 50, 'sweeps_per_sim': 10000, 'warmup_sweeps': 100, 'resolution': 0.01, 'meas_freq': 1, 'visual': False, 'multicore': True, 'sim_type': 'slice_phase_diagram', 'p_init_s': 0.3333333333333333, 'p_init_i': 0.3333333333333333, 'p_init_r': 0.3333333333333333, 'p_update_s': 0.3, 'p_update_i': 0.3, 'p_update_r': 0.4, 'immune_frac': 0, 'plot_freq': 5}
+**********
+
+start: 28-02-2026@15-17-23
+100.00% complete in 00 Hours 09 Minutes 11 Seconds
+finish: 28-02-2026@15-29-42

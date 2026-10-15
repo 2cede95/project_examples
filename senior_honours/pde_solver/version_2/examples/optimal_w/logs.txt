@@ -1,0 +1,1 @@
+{'visual': False, 'solver': 'jacobi', 'equation': 'optimal_w', 'w_range': [0.1, 1.999], 'w_sim': 'poisson', 'w_res': 25, 'length': 100, 'x_step': 1.0, 't_step': 0.01, 'relaxation': 1.97, 'initial_value': 0.0, 'noise': 0.001, 'boundary_values': (None, None, None, None, None, None), 'tolerance': 0.01, 'discard': False, 'N_max': 500}

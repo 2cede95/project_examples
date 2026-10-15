@@ -1,0 +1,1 @@
+{'discard': False, 'visual': False, 'preset': 'random', 'simulation': 'glider_velocity', 'length': 50, 'max_iterations': 15000, 'simulations': 1000}

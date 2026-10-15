@@ -1,0 +1,18 @@
+
+**********
+Arguments: {'visual_only': False, 'temperature': 3.0, 'plot_freq': 10, 'visualiser': False, 'algorithm': 'glauber', 'temp_range': (1.0, 3.0), 'temp_step': 0.3, 'dimension': 50, 'sweep_depth': 100, 'sweep_warmup': 100, 'correlation_gap': 10, 'start': 'random', 'error_method': 'bootstrap'}
+**********
+
+start: 29-03-2026@11-54-41
+Warmup complete: 100 sweeps @ T = 3.00 kbT/J in 00 Hours 00 Minutes 01 Seconds (12.50%)
+Progress: 200 sweeps @ T = 3.00 kbT/J in 00 Hours 00 Minutes 01 Seconds (25.00%)
+Progress: 300 sweeps @ T = 2.67 kbT/J in 00 Hours 00 Minutes 02 Seconds (37.50%)
+Progress: 400 sweeps @ T = 2.33 kbT/J in 00 Hours 00 Minutes 03 Seconds (50.00%)
+Progress: 500 sweeps @ T = 2.00 kbT/J in 00 Hours 00 Minutes 04 Seconds (62.50%)
+Progress: 600 sweeps @ T = 1.67 kbT/J in 00 Hours 00 Minutes 05 Seconds (75.00%)
+Progress: 700 sweeps @ T = 1.33 kbT/J in 00 Hours 00 Minutes 06 Seconds (87.50%)
+Progress: 800 sweeps @ T = 1.00 kbT/J in 00 Hours 00 Minutes 07 Seconds (100.00%)
+Simulation complete: 800 sweeps @ T = {3.00, 2.67, ... 1.33, 1.00} kbT/J in 00 Hours 00 Minutes 07 Seconds (100.00%)
+Critical Temperature estimate from Heat Capacity data: 1.67 ± 0.30 KbT/J
+Critical Temperature estimate from Susceptibility data: 2.00 ± 0.30 KbT/J
+finish: 29-03-2026@11-54-48

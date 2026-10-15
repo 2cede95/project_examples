@@ -1,0 +1,1 @@
+Arguments: {'visual': False, 'equation': 'poisson', 'w_range': [0.1, 2.0], 'w_res': 50, 'optimal_w': True, 'solver': 'jacobi', 'dimension': 100, 'x_step': 1.0, 't_step': 0.01, 'relaxation': 1.97, 'initial_value': 0.0, 'noise': 0.001, 'boundary_value': [0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 'tolerance': 0.0001, 'discard': False, 'N_max': 10000}

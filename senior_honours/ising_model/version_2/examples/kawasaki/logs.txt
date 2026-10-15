@@ -1,0 +1,1 @@
+{'discard': False, 'visual': False, 'b_simulation': True, 'b_range': [1.0, 3.0], 'b_resolution': 50, 'algorithm': 'kawasaki', 'error_method': 'bootstrap', 'length': 50, 'initial_conditions': 'random', 'correlation_gap': 10, 'sweeps': 1000, 'warmup': 100, 'beta': 1.0}

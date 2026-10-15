@@ -1,0 +1,1 @@
+**This code was an attempt to write python code in a C++ style (this feels more natural to me). There are no command line arguments for usage. It has been uploaded mostly as a library with the run file being void of any options bar the last one that I tested.**
