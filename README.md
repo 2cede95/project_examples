@@ -5,7 +5,7 @@ Directories are sorted by when I made the projects in my undergraduate degree. T
 # How to run the code
 The code is intended for reading only however there are README files for some of the projects in the senior honours directory. 
 For python files all that is needed is the latest versions of matplotlib, numpy and scipy (as of 15/10/2026). These can be installed via:
-'''Bash pip3 install matplotlib numpy scipy```
+```Bash pip3 install matplotlib numpy scipy```
 I like to separate the "functional" code from the "user interface" code and as such all of the project have a python file with the user interaction logic
 (which is the one that should be run) and a file that contains most of the interesting code. 
 
