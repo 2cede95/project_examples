@@ -1,8 +1,7 @@
 # Example Scientific Computing Projects
-
 Directories are sorted by when I made the projects in my undergraduate degree. The "Independent" directory contains projects that I made outside of any university class/study.
 
-# How to run the code
+## How to run the code
 The code is intended for reading only however there are README files for some of the projects in the senior honours directory. 
 For python files all that is needed is the latest versions of matplotlib, numpy and scipy (as of 15/10/2026). These can be installed via:
 ```Bash
@@ -22,9 +21,12 @@ All of the senior honours projects have help menus via the `--help` flag as well
 python3 run.py --help
 ```
 
-# Examples
+## Examples
 Most of the directories contain example outputs of the code. It will be found that the data/figures is formatted to a much higher standard in `senior_honors` projects as these
 were formally assessed. The independent project were made for my own experimentation/practice only and as such little time was taken to polish the outputs.
 
-# Optimisation
+## Optimisation
 The 'version_2' projects in `senior_honours` were submitted for coursework/examination and 'version_1' was my first draft code. Feel free to compare the two versions.
+
+# Example Reports
+Reports are from my junior and senior honours years. Some are better quality than others. This list is not exhaustive. The contact angle report also has a conference style poster.
