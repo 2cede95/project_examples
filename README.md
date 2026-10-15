@@ -1,3 +1,6 @@
+# Where to start
+I recommend reading the contact angle report and poster found in `reports/solo` as well as the 'version 2' senior honours coding projects for examples of my most recent work that was submitted during my senior honours year. 
+
 # Example Scientific Computing Projects
 Directories are sorted by when I made the projects in my undergraduate degree. The "Independent" directory contains projects that I made outside of any university class/study.
 
@@ -30,3 +33,4 @@ The 'version_2' projects in `senior_honours` were submitted for coursework/exami
 
 # Example Reports
 Reports are from my junior and senior honours years. Some are better quality than others. This list is not exhaustive. The contact angle report also has a conference style poster.
+
