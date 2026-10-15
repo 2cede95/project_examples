@@ -6,7 +6,7 @@ Directories are sorted by when I made the projects in my undergraduate degree. T
 The code is intended for reading only however there are README files for some of the projects in the senior honours directory. 
 For python files all that is needed is the latest versions of matplotlib, numpy and scipy (as of 15/10/2026). These can be installed via:
 ```Bash pip3 install matplotlib numpy scipy```
-I like to separate the "functional" code from the "user interface" code and as such all of the project have a python file with the user interaction logic
+I like to separate the "functional" code from the "user interface" code and as such all of the projects have a python file with the user interaction logic
 (which is the one that should be run) and a file that contains most of the interesting code. 
 
 i.e. in `project_examples/senior_honours/ising_model/version_1` there is `run.py` and `dynamics.py`; the interesting code is contained inside the latter but the former
