@@ -1,6 +1,6 @@
 # Example Scientific Computing Projects
 
-Directories are sorted by when I made the projects in my undergraduate degree. The "Independent" directory are projects that I made outside of any university class/study.
+Directories are sorted by when I made the projects in my undergraduate degree. The "Independent" directory contains projects that I made outside of any university class/study.
 
 # How to run the code
 The code is intended for reading only however there are README files for some of the projects in the senior honours directory (particularly all of the version 1's). 
