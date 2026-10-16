@@ -23,7 +23,7 @@ python3 run.py --help
 
 ## Examples
 Most of the directories contain example outputs of the code. It will be found that the data/figures is formatted to a much higher standard in `senior_honors` projects as these
-were formally assessed. The independent project were made for my own experimentation/practice only and as such little time was taken to polish the outputs.
+were formally assessed. The independent projects were made for my own experimentation/practice/experience only and as such little time was taken to polish the outputs.
 
 ## Optimisation
 The 'version_2' projects in `senior_honours` were submitted for coursework/examination and 'version_1' was my first draft code. Feel free to compare the two versions.
