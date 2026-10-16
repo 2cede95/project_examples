@@ -16,7 +16,7 @@ would be run like:
 ```Bash
 python3 run.py
 ```
-The interesting code is in the other files. All of the senior honours projects have help menus via the `--help` flag as well as their own README files present in the directories.
+All of the senior honours projects have help menus via the `--help` flag as well as their own README files present in the directories.
 ```Bash
 python3 run.py --help
 ```
