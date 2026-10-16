@@ -10,16 +10,13 @@ For python files all that is needed is the latest versions of matplotlib, numpy 
 ```Bash
 pip3 install matplotlib numpy scipy
 ```
-I like to separate the "functional" code from the "user interface" code and as such all of the projects have a python file with the user interaction logic
-(which is the one that should be run) and a file that contains most of the interesting code. 
-
+For the rust code, the `cargo.toml` and `cargo.lock` files are included so normal compilation with cargo should work. I like to separate the "functional" code from the "user interface" code and as such all of the projects have a specific file for user interaction logic (in the case of the python files this is the one that should be run).
 i.e. in `project_examples/senior_honours/ising_model/version_1` there is `run.py` and `dynamics.py`; the interesting code is contained inside the latter but the former
 would be run like:
 ```Bash
 python3 run.py
 ```
-
-All of the senior honours projects have help menus via the `--help` flag as well as their own README files present in the directories.
+The interesting code is in the other files. All of the senior honours projects have help menus via the `--help` flag as well as their own README files present in the directories.
 ```Bash
 python3 run.py --help
 ```
